@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yakupkavak&theme=dark)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yakupkavak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yakupkavak&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github.com/yakupkavak/yakupkavak/blob/output/github-contribution-grid-snake.svg)[![Trophies](https://github-profile-trophy.vercel.app/?username=yakupkavak&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
